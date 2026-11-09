@@ -38,8 +38,8 @@ Velorya Event présente ses services et son univers à travers une plateforme di
 ## Installation
 
 ```bash
-git clone https://github.com/lahcenmarishal/scroll-voyage-experience.git
-cd scroll-voyage-experience
+git clone https://github.com/lahcenmarishal/velorya-event.git
+cd velorya-event
 npm install
 npm run dev
 ```
