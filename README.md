@@ -1,25 +1,49 @@
-# Remix of Remix of Velorya Travel Explorer
+# Velorya Event
 
-* CRéer un site d'agence de voyage avec défilement entres les pages de droite a gauche et dans chaque page la possibilité de défiler haut et bas inspiré de strucure de ce site  https://rss-studio.ma/  et aussi la modernité et la clareté comme ce site exactement
-* le contenu et les pages de site dans la présentation uploadé et les images utilisé seront les images uploadé et le logo utilisé est "velorya event"
+Site vitrine moderne et immersif pour **Velorya Event**, dédié à la création et à l'organisation d'événements.
 
-This project was built with [Lovable](https://lovable.dev).
+Site en ligne : https://velorya-event.com/
 
-## Build with Lovable
+## Le problème
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/fd1bb409-4622-4c1a-85b7-a6480ede373a).
+Organiser un événement demande du temps, de la créativité et une bonne coordination. Les clients recherchent un prestataire capable de transformer leurs idées en expériences mémorables.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+## La solution
 
-## Development
+Velorya Event présente ses services et son univers à travers une plateforme digitale élégante :
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+1. Découverte de l'univers et du concept de Velorya Event.
+2. Présentation des prestations et des services événementiels.
+3. Découverte des réalisations et des expériences proposées.
+4. Prise de contact pour organiser un événement sur mesure.
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+## Fonctionnalités
+
+- Design moderne et immersif
+- Présentation des services événementiels
+- Galerie et présentation des réalisations
+- Animations et effets de défilement
+- Navigation fluide
+- Formulaire de contact
+- Intégration des moyens de contact
+- Design responsive
+
+## Technologies
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+
+## Installation
+
+```bash
+git clone https://github.com/lahcenmarishal/scroll-voyage-experience.git
+cd scroll-voyage-experience
+npm install
 npm run dev
 ```
+
+## Auteur
+
+Lahcen, développeur IA.
